@@ -17,7 +17,7 @@ As a beginner my animation is pretty psychedelic and chaotic but it allows anyon
 
 ## How to use it ?
 
-. Open https://www.shadertoy.com/new
-. Copy paste the content of code.txt
-. Compiler
-. Click "play"
+- Open https://www.shadertoy.com/new
+- Copy paste the content of code.txt
+- Compiler
+- Click "play"
