@@ -24,4 +24,5 @@ As a beginner my animation is pretty psychedelic and chaotic but it allows anyon
 
 ## Demonstration Video 
 
-https://github.com/clement-pasquet/Project-GLSL/blob/main/opengl_vector.mp4
+
+https://github.com/clement-pasquet/Project-GLSL/assets/120576302/c73f569a-01f8-4bc8-a454-88f43373c99b
