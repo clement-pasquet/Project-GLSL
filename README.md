@@ -1,4 +1,5 @@
 # Project GLSL
+![Visualisation du projet](opengl_vector.jpg)
 ## Context
 Every Graphic Card has different layers of complexity behind it.
 But every ( or most ) use OpenGL for a Graphic Card Pipeline.
@@ -14,3 +15,9 @@ Basically, it allows us, without anymore libraires, to create visual animation, 
 
 As a beginner my animation is pretty psychedelic and chaotic but it allows anyone to program it's own animation, and is pretty extensive.
 
+## How to use it ?
+
+. Open https://www.shadertoy.com/new
+. Copy paste the content of code.txt
+. Compiler
+. Click "play"
