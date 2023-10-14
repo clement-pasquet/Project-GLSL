@@ -23,7 +23,6 @@ As a beginner my animation is pretty psychedelic and chaotic but it allows anyon
 - Click "play"
 
 ## Demonstration Video 
-
 <video width="1920" height="1080" controls>
   <source src="opengl_vector.mp4" type="video/mp4">
   Votre navigateur ne prend pas en charge le tag vidéo.
