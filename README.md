@@ -19,5 +19,5 @@ As a beginner my animation is pretty psychedelic and chaotic but it allows anyon
 
 - Open https://www.shadertoy.com/new
 - Copy paste the content of code.txt
-- Compiler
+- Compile
 - Click "play"
